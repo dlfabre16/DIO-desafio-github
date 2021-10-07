@@ -1,0 +1,8 @@
+COMANDO BÁSICOS
+
+git clone
+git status
+git remote
+git add . = atualiza arquivos
+git commit -m "atualiza git"
+git push origin main = manda arquivos para o github
